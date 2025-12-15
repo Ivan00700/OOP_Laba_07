@@ -1,0 +1,30 @@
+# ---- Executables ----
+*.out
+*.exe
+*.dll
+*.so
+*.dylib
+
+# ---- Build directories ----
+build/
+
+# ---- IDE files ----
+
+# CLion / JetBrains
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# ---- OS trash ----
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+log.txt
+
+# ---- Backup files ----
+*.swp
+*.swo
+*~
