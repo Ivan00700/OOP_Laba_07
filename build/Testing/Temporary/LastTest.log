@@ -1,0 +1,975 @@
+Start testing: Dec 18 02:30 MSK
+----------------------------------------------------------
+1/36 Testing: FactoryTest.CreateOrkCorrectly
+1/36 Test: FactoryTest.CreateOrkCorrectly
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=FactoryTest.CreateOrkCorrectly" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"FactoryTest.CreateOrkCorrectly" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactoryTest.CreateOrkCorrectly
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactoryTest
+[ RUN      ] FactoryTest.CreateOrkCorrectly
+[       OK ] FactoryTest.CreateOrkCorrectly (0 ms)
+[----------] 1 test from FactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryTest.CreateOrkCorrectly" end time: Dec 18 02:30 MSK
+"FactoryTest.CreateOrkCorrectly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/36 Testing: FactoryTest.CreateWillianCorrectly
+2/36 Test: FactoryTest.CreateWillianCorrectly
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=FactoryTest.CreateWillianCorrectly" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"FactoryTest.CreateWillianCorrectly" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactoryTest.CreateWillianCorrectly
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactoryTest
+[ RUN      ] FactoryTest.CreateWillianCorrectly
+[       OK ] FactoryTest.CreateWillianCorrectly (0 ms)
+[----------] 1 test from FactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryTest.CreateWillianCorrectly" end time: Dec 18 02:30 MSK
+"FactoryTest.CreateWillianCorrectly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/36 Testing: FactoryTest.CreateWerewolfCorrectly
+3/36 Test: FactoryTest.CreateWerewolfCorrectly
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=FactoryTest.CreateWerewolfCorrectly" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"FactoryTest.CreateWerewolfCorrectly" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactoryTest.CreateWerewolfCorrectly
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactoryTest
+[ RUN      ] FactoryTest.CreateWerewolfCorrectly
+[       OK ] FactoryTest.CreateWerewolfCorrectly (0 ms)
+[----------] 1 test from FactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryTest.CreateWerewolfCorrectly" end time: Dec 18 02:30 MSK
+"FactoryTest.CreateWerewolfCorrectly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/36 Testing: FactoryTest.CaseInsensitiveCreation
+4/36 Test: FactoryTest.CaseInsensitiveCreation
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=FactoryTest.CaseInsensitiveCreation" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"FactoryTest.CaseInsensitiveCreation" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactoryTest.CaseInsensitiveCreation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactoryTest
+[ RUN      ] FactoryTest.CaseInsensitiveCreation
+[       OK ] FactoryTest.CaseInsensitiveCreation (0 ms)
+[----------] 1 test from FactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryTest.CaseInsensitiveCreation" end time: Dec 18 02:30 MSK
+"FactoryTest.CaseInsensitiveCreation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/36 Testing: FactoryTest.ThrowOnUnknownType
+5/36 Test: FactoryTest.ThrowOnUnknownType
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=FactoryTest.ThrowOnUnknownType" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"FactoryTest.ThrowOnUnknownType" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactoryTest.ThrowOnUnknownType
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactoryTest
+[ RUN      ] FactoryTest.ThrowOnUnknownType
+[       OK ] FactoryTest.ThrowOnUnknownType (0 ms)
+[----------] 1 test from FactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryTest.ThrowOnUnknownType" end time: Dec 18 02:30 MSK
+"FactoryTest.ThrowOnUnknownType" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/36 Testing: FactoryTest.ThrowOnNegativeCoordinates
+6/36 Test: FactoryTest.ThrowOnNegativeCoordinates
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=FactoryTest.ThrowOnNegativeCoordinates" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"FactoryTest.ThrowOnNegativeCoordinates" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactoryTest.ThrowOnNegativeCoordinates
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactoryTest
+[ RUN      ] FactoryTest.ThrowOnNegativeCoordinates
+[       OK ] FactoryTest.ThrowOnNegativeCoordinates (0 ms)
+[----------] 1 test from FactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryTest.ThrowOnNegativeCoordinates" end time: Dec 18 02:30 MSK
+"FactoryTest.ThrowOnNegativeCoordinates" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/36 Testing: FactoryTest.ThrowOnOutOfBoundsCoordinates
+7/36 Test: FactoryTest.ThrowOnOutOfBoundsCoordinates
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=FactoryTest.ThrowOnOutOfBoundsCoordinates" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"FactoryTest.ThrowOnOutOfBoundsCoordinates" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactoryTest.ThrowOnOutOfBoundsCoordinates
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactoryTest
+[ RUN      ] FactoryTest.ThrowOnOutOfBoundsCoordinates
+[       OK ] FactoryTest.ThrowOnOutOfBoundsCoordinates (0 ms)
+[----------] 1 test from FactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryTest.ThrowOnOutOfBoundsCoordinates" end time: Dec 18 02:30 MSK
+"FactoryTest.ThrowOnOutOfBoundsCoordinates" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/36 Testing: FactoryTest.CreateFromStream
+8/36 Test: FactoryTest.CreateFromStream
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=FactoryTest.CreateFromStream" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"FactoryTest.CreateFromStream" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = FactoryTest.CreateFromStream
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from FactoryTest
+[ RUN      ] FactoryTest.CreateFromStream
+[       OK ] FactoryTest.CreateFromStream (0 ms)
+[----------] 1 test from FactoryTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"FactoryTest.CreateFromStream" end time: Dec 18 02:30 MSK
+"FactoryTest.CreateFromStream" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/36 Testing: NPCTest.SaveFormatOrk
+9/36 Test: NPCTest.SaveFormatOrk
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=NPCTest.SaveFormatOrk" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"NPCTest.SaveFormatOrk" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCTest.SaveFormatOrk
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.SaveFormatOrk
+[       OK ] NPCTest.SaveFormatOrk (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.SaveFormatOrk" end time: Dec 18 02:30 MSK
+"NPCTest.SaveFormatOrk" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/36 Testing: NPCTest.SaveFormatWillian
+10/36 Test: NPCTest.SaveFormatWillian
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=NPCTest.SaveFormatWillian" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"NPCTest.SaveFormatWillian" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCTest.SaveFormatWillian
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.SaveFormatWillian
+[       OK ] NPCTest.SaveFormatWillian (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.SaveFormatWillian" end time: Dec 18 02:30 MSK
+"NPCTest.SaveFormatWillian" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/36 Testing: NPCTest.DistanceCalculationSamePoint
+11/36 Test: NPCTest.DistanceCalculationSamePoint
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=NPCTest.DistanceCalculationSamePoint" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"NPCTest.DistanceCalculationSamePoint" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCTest.DistanceCalculationSamePoint
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.DistanceCalculationSamePoint
+[       OK ] NPCTest.DistanceCalculationSamePoint (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.DistanceCalculationSamePoint" end time: Dec 18 02:30 MSK
+"NPCTest.DistanceCalculationSamePoint" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/36 Testing: NPCTest.DistanceCalculationExact
+12/36 Test: NPCTest.DistanceCalculationExact
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=NPCTest.DistanceCalculationExact" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"NPCTest.DistanceCalculationExact" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCTest.DistanceCalculationExact
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.DistanceCalculationExact
+[       OK ] NPCTest.DistanceCalculationExact (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.DistanceCalculationExact" end time: Dec 18 02:30 MSK
+"NPCTest.DistanceCalculationExact" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/36 Testing: NPCTest.DistanceCalculationFar
+13/36 Test: NPCTest.DistanceCalculationFar
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=NPCTest.DistanceCalculationFar" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"NPCTest.DistanceCalculationFar" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCTest.DistanceCalculationFar
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.DistanceCalculationFar
+[       OK ] NPCTest.DistanceCalculationFar (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.DistanceCalculationFar" end time: Dec 18 02:30 MSK
+"NPCTest.DistanceCalculationFar" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/36 Testing: NPCTest.SelfDistanceIgnored
+14/36 Test: NPCTest.SelfDistanceIgnored
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=NPCTest.SelfDistanceIgnored" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"NPCTest.SelfDistanceIgnored" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCTest.SelfDistanceIgnored
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.SelfDistanceIgnored
+[       OK ] NPCTest.SelfDistanceIgnored (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.SelfDistanceIgnored" end time: Dec 18 02:30 MSK
+"NPCTest.SelfDistanceIgnored" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/36 Testing: NPCTest.AliveDefaultTrue
+15/36 Test: NPCTest.AliveDefaultTrue
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=NPCTest.AliveDefaultTrue" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"NPCTest.AliveDefaultTrue" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCTest.AliveDefaultTrue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.AliveDefaultTrue
+[       OK ] NPCTest.AliveDefaultTrue (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.AliveDefaultTrue" end time: Dec 18 02:30 MSK
+"NPCTest.AliveDefaultTrue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/36 Testing: NPCTest.KillMakesDead
+16/36 Test: NPCTest.KillMakesDead
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=NPCTest.KillMakesDead" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"NPCTest.KillMakesDead" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCTest.KillMakesDead
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.KillMakesDead
+[       OK ] NPCTest.KillMakesDead (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.KillMakesDead" end time: Dec 18 02:30 MSK
+"NPCTest.KillMakesDead" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/36 Testing: NPCTest.PositionSetGet
+17/36 Test: NPCTest.PositionSetGet
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=NPCTest.PositionSetGet" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"NPCTest.PositionSetGet" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NPCTest.PositionSetGet
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NPCTest
+[ RUN      ] NPCTest.PositionSetGet
+[       OK ] NPCTest.PositionSetGet (0 ms)
+[----------] 1 test from NPCTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NPCTest.PositionSetGet" end time: Dec 18 02:30 MSK
+"NPCTest.PositionSetGet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/36 Testing: CombatTest.Ork_Kills_Willian
+18/36 Test: CombatTest.Ork_Kills_Willian
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=CombatTest.Ork_Kills_Willian" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"CombatTest.Ork_Kills_Willian" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CombatTest.Ork_Kills_Willian
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CombatTest
+[ RUN      ] CombatTest.Ork_Kills_Willian
+[       OK ] CombatTest.Ork_Kills_Willian (0 ms)
+[----------] 1 test from CombatTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CombatTest.Ork_Kills_Willian" end time: Dec 18 02:30 MSK
+"CombatTest.Ork_Kills_Willian" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/36 Testing: CombatTest.Ork_DoesNotKill_Ork
+19/36 Test: CombatTest.Ork_DoesNotKill_Ork
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=CombatTest.Ork_DoesNotKill_Ork" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"CombatTest.Ork_DoesNotKill_Ork" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CombatTest.Ork_DoesNotKill_Ork
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CombatTest
+[ RUN      ] CombatTest.Ork_DoesNotKill_Ork
+[       OK ] CombatTest.Ork_DoesNotKill_Ork (0 ms)
+[----------] 1 test from CombatTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CombatTest.Ork_DoesNotKill_Ork" end time: Dec 18 02:30 MSK
+"CombatTest.Ork_DoesNotKill_Ork" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/36 Testing: CombatTest.Ork_DoesNotKill_Werewolf
+20/36 Test: CombatTest.Ork_DoesNotKill_Werewolf
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=CombatTest.Ork_DoesNotKill_Werewolf" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"CombatTest.Ork_DoesNotKill_Werewolf" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CombatTest.Ork_DoesNotKill_Werewolf
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CombatTest
+[ RUN      ] CombatTest.Ork_DoesNotKill_Werewolf
+[       OK ] CombatTest.Ork_DoesNotKill_Werewolf (0 ms)
+[----------] 1 test from CombatTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CombatTest.Ork_DoesNotKill_Werewolf" end time: Dec 18 02:30 MSK
+"CombatTest.Ork_DoesNotKill_Werewolf" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/36 Testing: CombatTest.Willian_Kills_Werewolf
+21/36 Test: CombatTest.Willian_Kills_Werewolf
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=CombatTest.Willian_Kills_Werewolf" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"CombatTest.Willian_Kills_Werewolf" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CombatTest.Willian_Kills_Werewolf
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CombatTest
+[ RUN      ] CombatTest.Willian_Kills_Werewolf
+[       OK ] CombatTest.Willian_Kills_Werewolf (0 ms)
+[----------] 1 test from CombatTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CombatTest.Willian_Kills_Werewolf" end time: Dec 18 02:30 MSK
+"CombatTest.Willian_Kills_Werewolf" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/36 Testing: CombatTest.Willian_DoesNotKill_Willian
+22/36 Test: CombatTest.Willian_DoesNotKill_Willian
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=CombatTest.Willian_DoesNotKill_Willian" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"CombatTest.Willian_DoesNotKill_Willian" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CombatTest.Willian_DoesNotKill_Willian
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CombatTest
+[ RUN      ] CombatTest.Willian_DoesNotKill_Willian
+[       OK ] CombatTest.Willian_DoesNotKill_Willian (0 ms)
+[----------] 1 test from CombatTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CombatTest.Willian_DoesNotKill_Willian" end time: Dec 18 02:30 MSK
+"CombatTest.Willian_DoesNotKill_Willian" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/36 Testing: CombatTest.Willian_DoesNotKill_Ork
+23/36 Test: CombatTest.Willian_DoesNotKill_Ork
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=CombatTest.Willian_DoesNotKill_Ork" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"CombatTest.Willian_DoesNotKill_Ork" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CombatTest.Willian_DoesNotKill_Ork
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CombatTest
+[ RUN      ] CombatTest.Willian_DoesNotKill_Ork
+[       OK ] CombatTest.Willian_DoesNotKill_Ork (0 ms)
+[----------] 1 test from CombatTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CombatTest.Willian_DoesNotKill_Ork" end time: Dec 18 02:30 MSK
+"CombatTest.Willian_DoesNotKill_Ork" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/36 Testing: CombatTest.Werewolf_Kills_Willian
+24/36 Test: CombatTest.Werewolf_Kills_Willian
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=CombatTest.Werewolf_Kills_Willian" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"CombatTest.Werewolf_Kills_Willian" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CombatTest.Werewolf_Kills_Willian
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CombatTest
+[ RUN      ] CombatTest.Werewolf_Kills_Willian
+[       OK ] CombatTest.Werewolf_Kills_Willian (0 ms)
+[----------] 1 test from CombatTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CombatTest.Werewolf_Kills_Willian" end time: Dec 18 02:30 MSK
+"CombatTest.Werewolf_Kills_Willian" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/36 Testing: CombatTest.Werewolf_DoesNotKill_Werewolf
+25/36 Test: CombatTest.Werewolf_DoesNotKill_Werewolf
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=CombatTest.Werewolf_DoesNotKill_Werewolf" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"CombatTest.Werewolf_DoesNotKill_Werewolf" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CombatTest.Werewolf_DoesNotKill_Werewolf
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CombatTest
+[ RUN      ] CombatTest.Werewolf_DoesNotKill_Werewolf
+[       OK ] CombatTest.Werewolf_DoesNotKill_Werewolf (0 ms)
+[----------] 1 test from CombatTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CombatTest.Werewolf_DoesNotKill_Werewolf" end time: Dec 18 02:30 MSK
+"CombatTest.Werewolf_DoesNotKill_Werewolf" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/36 Testing: CombatTest.Werewolf_DoesNotKill_Ork
+26/36 Test: CombatTest.Werewolf_DoesNotKill_Ork
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=CombatTest.Werewolf_DoesNotKill_Ork" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"CombatTest.Werewolf_DoesNotKill_Ork" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CombatTest.Werewolf_DoesNotKill_Ork
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CombatTest
+[ RUN      ] CombatTest.Werewolf_DoesNotKill_Ork
+[       OK ] CombatTest.Werewolf_DoesNotKill_Ork (0 ms)
+[----------] 1 test from CombatTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CombatTest.Werewolf_DoesNotKill_Ork" end time: Dec 18 02:30 MSK
+"CombatTest.Werewolf_DoesNotKill_Ork" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/36 Testing: ObserverTest.SingleObserverNotify
+27/36 Test: ObserverTest.SingleObserverNotify
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=ObserverTest.SingleObserverNotify" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"ObserverTest.SingleObserverNotify" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ObserverTest.SingleObserverNotify
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ObserverTest
+[ RUN      ] ObserverTest.SingleObserverNotify
+[       OK ] ObserverTest.SingleObserverNotify (0 ms)
+[----------] 1 test from ObserverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ObserverTest.SingleObserverNotify" end time: Dec 18 02:30 MSK
+"ObserverTest.SingleObserverNotify" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/36 Testing: ObserverTest.MultipleObservers
+28/36 Test: ObserverTest.MultipleObservers
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=ObserverTest.MultipleObservers" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"ObserverTest.MultipleObservers" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ObserverTest.MultipleObservers
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ObserverTest
+[ RUN      ] ObserverTest.MultipleObservers
+[       OK ] ObserverTest.MultipleObservers (0 ms)
+[----------] 1 test from ObserverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ObserverTest.MultipleObservers" end time: Dec 18 02:30 MSK
+"ObserverTest.MultipleObservers" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/36 Testing: ObserverTest.MultipleNotifications
+29/36 Test: ObserverTest.MultipleNotifications
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=ObserverTest.MultipleNotifications" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"ObserverTest.MultipleNotifications" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ObserverTest.MultipleNotifications
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ObserverTest
+[ RUN      ] ObserverTest.MultipleNotifications
+[       OK ] ObserverTest.MultipleNotifications (0 ms)
+[----------] 1 test from ObserverTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ObserverTest.MultipleNotifications" end time: Dec 18 02:30 MSK
+"ObserverTest.MultipleNotifications" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/36 Testing: ObserverTest.FileObserverIntegration
+30/36 Test: ObserverTest.FileObserverIntegration
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=ObserverTest.FileObserverIntegration" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"ObserverTest.FileObserverIntegration" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ObserverTest.FileObserverIntegration
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ObserverTest
+[ RUN      ] ObserverTest.FileObserverIntegration
+[       OK ] ObserverTest.FileObserverIntegration (5 ms)
+[----------] 1 test from ObserverTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ObserverTest.FileObserverIntegration" end time: Dec 18 02:30 MSK
+"ObserverTest.FileObserverIntegration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/36 Testing: ArenaTest.AddAndPrintDoesNotCrash
+31/36 Test: ArenaTest.AddAndPrintDoesNotCrash
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=ArenaTest.AddAndPrintDoesNotCrash" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"ArenaTest.AddAndPrintDoesNotCrash" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArenaTest.AddAndPrintDoesNotCrash
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArenaTest
+[ RUN      ] ArenaTest.AddAndPrintDoesNotCrash
+[       OK ] ArenaTest.AddAndPrintDoesNotCrash (0 ms)
+[----------] 1 test from ArenaTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArenaTest.AddAndPrintDoesNotCrash" end time: Dec 18 02:30 MSK
+"ArenaTest.AddAndPrintDoesNotCrash" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/36 Testing: ArenaTest.SaveAndLoadEmpty
+32/36 Test: ArenaTest.SaveAndLoadEmpty
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=ArenaTest.SaveAndLoadEmpty" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"ArenaTest.SaveAndLoadEmpty" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArenaTest.SaveAndLoadEmpty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArenaTest
+[ RUN      ] ArenaTest.SaveAndLoadEmpty
+[       OK ] ArenaTest.SaveAndLoadEmpty (5 ms)
+[----------] 1 test from ArenaTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ArenaTest.SaveAndLoadEmpty" end time: Dec 18 02:30 MSK
+"ArenaTest.SaveAndLoadEmpty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/36 Testing: ArenaTest.FullCycleSaveLoad
+33/36 Test: ArenaTest.FullCycleSaveLoad
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=ArenaTest.FullCycleSaveLoad" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"ArenaTest.FullCycleSaveLoad" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArenaTest.FullCycleSaveLoad
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArenaTest
+[ RUN      ] ArenaTest.FullCycleSaveLoad
+[       OK ] ArenaTest.FullCycleSaveLoad (5 ms)
+[----------] 1 test from ArenaTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"ArenaTest.FullCycleSaveLoad" end time: Dec 18 02:30 MSK
+"ArenaTest.FullCycleSaveLoad" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/36 Testing: ArenaTest.FightLogicIntegration
+34/36 Test: ArenaTest.FightLogicIntegration
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=ArenaTest.FightLogicIntegration" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"ArenaTest.FightLogicIntegration" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArenaTest.FightLogicIntegration
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArenaTest
+[ RUN      ] ArenaTest.FightLogicIntegration
+[       OK ] ArenaTest.FightLogicIntegration (0 ms)
+[----------] 1 test from ArenaTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArenaTest.FightLogicIntegration" end time: Dec 18 02:30 MSK
+"ArenaTest.FightLogicIntegration" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/36 Testing: ArenaTest.FightNoRange
+35/36 Test: ArenaTest.FightNoRange
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=ArenaTest.FightNoRange" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"ArenaTest.FightNoRange" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArenaTest.FightNoRange
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArenaTest
+[ RUN      ] ArenaTest.FightNoRange
+[       OK ] ArenaTest.FightNoRange (0 ms)
+[----------] 1 test from ArenaTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArenaTest.FightNoRange" end time: Dec 18 02:30 MSK
+"ArenaTest.FightNoRange" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/36 Testing: ArenaTest.SnapshotReturnsCopy
+36/36 Test: ArenaTest.SnapshotReturnsCopy
+Command: "/mnt/c/Users/Иван/Documents/ООП/Laba_07/build/unit_tests" "--gtest_filter=ArenaTest.SnapshotReturnsCopy" "--gtest_also_run_disabled_tests"
+Directory: /mnt/c/Users/Иван/Documents/ООП/Laba_07/build
+"ArenaTest.SnapshotReturnsCopy" start time: Dec 18 02:30 MSK
+Output:
+----------------------------------------------------------
+Running main() from /mnt/c/Users/Иван/Documents/ООП/Laba_07/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = ArenaTest.SnapshotReturnsCopy
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from ArenaTest
+[ RUN      ] ArenaTest.SnapshotReturnsCopy
+[       OK ] ArenaTest.SnapshotReturnsCopy (0 ms)
+[----------] 1 test from ArenaTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"ArenaTest.SnapshotReturnsCopy" end time: Dec 18 02:30 MSK
+"ArenaTest.SnapshotReturnsCopy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Dec 18 02:30 MSK

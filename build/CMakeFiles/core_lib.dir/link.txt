@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcore_lib.a CMakeFiles/core_lib.dir/src/npc.cpp.o CMakeFiles/core_lib.dir/src/ork.cpp.o CMakeFiles/core_lib.dir/src/willian.cpp.o CMakeFiles/core_lib.dir/src/werewolf.cpp.o CMakeFiles/core_lib.dir/src/factory.cpp.o CMakeFiles/core_lib.dir/src/combat_visitor.cpp.o CMakeFiles/core_lib.dir/src/arena.cpp.o CMakeFiles/core_lib.dir/src/game.cpp.o
+/usr/bin/ranlib libcore_lib.a

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/dungeon_editor.dir/main.cpp.o -o dungeon_editor  libcore_lib.a 
